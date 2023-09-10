@@ -12,8 +12,7 @@
   "Prfile": {
     "name": "typicode"
   },
-  "Prueba     Json":
-  [
+  
     {
         "userId": 1,
         "id": 1,
@@ -44,6 +43,6 @@
         "title": "nesciunt quas odio",
         "body": "repudiandae veniam quaeraquis\nest aut tenetur dolor neque"
     }
-]
+
   
 }
